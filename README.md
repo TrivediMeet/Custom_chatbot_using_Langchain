@@ -2,14 +2,6 @@
 
 This project implements a custom chatbot that extracts course data from a website and uses machine learning embeddings to enable natural language queries. The chatbot is built using Flask and integrates Langchain for embeddings and FAISS for efficient similarity search.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
