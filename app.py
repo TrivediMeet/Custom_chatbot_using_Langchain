@@ -50,7 +50,7 @@ def extract_course_data():
         print("Extracted Courses:", courses)
     
     course_data = courses
-
+// For creae embeddings
 def create_embeddings():
     global vector_store
     if not course_data:
