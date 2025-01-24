@@ -8,9 +8,3 @@ This project implements a custom chatbot that extracts course data from a websit
 - Python 3.7 or higher
 - An OpenAI API key (set it as an environment variable named `OPENAI_API_KEY`)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/custom-chatbot.git
-   cd custom-chatbot
